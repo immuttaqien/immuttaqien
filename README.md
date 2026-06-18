@@ -71,9 +71,3 @@ Have a project in mind? I'd love to hear about it — whether it's a quick site 
 - **WhatsApp:** [+62 853-3377-1193](https://wa.me/6285333771193)
 - **Location:** Bandung, Indonesia
 - **Portfolio:** [iamdev.web.id](https://iamdev.web.id)
-
-<div align="center">
-
-_Replies usually within a working day, GMT+7._
-
-</div>
