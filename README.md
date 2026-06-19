@@ -6,7 +6,7 @@
 
 _Building modern web applications and information systems for government agencies, educational institutions, and businesses._
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iamdev-2c98f0?style=flat-square&logo=globe&logoColor=white)](https://iamdev.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iamdev-2c98f0?style=flat-square&logo=globe&logoColor=white)](https://iamdev.web.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-immuttaqien-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/immuttaqien)
 [![Instagram](https://img.shields.io/badge/Instagram-immuttaqien-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/immuttaqien)
 [![Email](https://img.shields.io/badge/Email-mt.ilham@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mt.ilham@gmail.com)
@@ -43,7 +43,7 @@ I'm a full-stack web developer from Bandung, Indonesia with **10+ years of exper
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
 
-**Tools & Infra**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
